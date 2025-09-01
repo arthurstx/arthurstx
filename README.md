@@ -25,12 +25,40 @@
 
 [<img align="left" height="94px" width="95px" alt="Warlocks logo" style="padding-right: 10px" src="https://media.licdn.com/dms/image/v2/C4D0BAQHPdPyvo6Qb6A/company-logo_200_200/company-logo_200_200/0/1668183873473/xmonkeybr_logo?e=2147483647&v=beta&t=k9uhWPBZzwmbS05wRWglHiDb-mNVr2TmB6s96jPrc94"/>](https://media.licdn.com/dms/image/v2/C4D0BAQHPdPyvo6Qb6A/company-logo_200_200/company-logo_200_200/0/1668183873473/xmonkeybr_logo?e=2147483647&v=beta&t=k9uhWPBZzwmbS05wRWglHiDb-mNVr2TmB6s96jPrc94)  
 **FullStack Developer**  
-**Warlocks**  
-Jun 2024 – Feb 2025  
+**Xmonkey**  
+Fev 2025 – Present
 Languages & Technologies: `Fastify`, `Prisma ORM`, `PostgreSQL`, `Docker`, `React`, `Next.js`, `Tailwind CSS`, `SEO`
 
 [<img align="left" height="94px" width="95px" alt="TITAN logo" style="padding-right: 10px" src="https://www.cimatecjr.com.br/assets/img/og.jpg"/>](https://www.cimatecjr.com.br/assets/img/og.jpg)  
 **Software Developer**  
-[**TITAN - Computer Engineering Junior Company at UFBA**](https://titanci.com.br)  
-September 2023 – Present  
+[**CIMATEC JR - Computer Engineering Junior Company at SENAI CIMATEC**](https://www.cimatecjr.com.br/)  
+September 2024 – Present  
 Languages & Technologies: `SpringBoot`, `Next.js`, `TypeScript`, `Node.js`, `PostgreSQL`,`React`
+<br/>
+<br/>
+<br/>
+## 🚀 Projetos (XMonkey)
+
+<table>
+  <tr>
+    <td>
+      <strong><a href="https://projetotestexmonkey.com.br/pages/Annie/" target="_blank">Annie</a></strong><br/>
+      Landing page objetiva com foco em conversão.
+    </td>
+    <td>
+      <strong><a href="https://projetotestexmonkey.com.br/pages/ftlEngenharia/" target="_blank">FTL Engenharia</a></strong><br/>
+      Site institucional enxuto para serviços de engenharia.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong><a href="https://projetotestexmonkey.com.br/pages/coworking/" target="_blank">Coworking</a></strong><br/>
+      One-page com highlights de planos e estrutura.
+    </td>
+    <td>
+      <strong><a href="https://projetotestexmonkey.com.br/pages/saudeNaHora/" target="_blank">Saúde na Hora</a></strong><br/>
+      Página de serviços em saúde/telemedicina.
+    </td>
+  </tr>
+</table>
+
