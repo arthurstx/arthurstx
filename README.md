@@ -37,7 +37,7 @@ Languages & Technologies: `SpringBoot`, `Next.js`, `TypeScript`, `Node.js`, `Pos
 <br/>
 <br/>
 <br/>
-## 🚀 Projetos (XMonkey)
+## 🚀 Projects (XMonkey)
 
 <table>
   <tr>
