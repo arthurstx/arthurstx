@@ -37,28 +37,6 @@ Languages & Technologies: `SpringBoot`, `Next.js`, `TypeScript`, `Node.js`, `Pos
 <br/>
 <br/>
 <br/>
-## 🚀 Projects (XMonkey)
 
-<table>
-  <tr>
-    <td>
-      <strong><a href="https://anniecosenza.com.br/" target="_blank">Annie</a></strong><br/>
-      Landing page objetiva com foco em conversão.
-    </td>
-    <td>
-      <strong><a href="https://ftlengenharias.com.br/" target="_blank">FTL Engenharia</a></strong><br/>
-      Site institucional enxuto para serviços de engenharia.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong><a href="http://coworkingbahia.com.br/" target="_blank">Coworking</a></strong><br/>
-      One-page com highlights de planos e estrutura.
-    </td>
-    <td>
-      <strong><a href="https://saudenahora.online/" target="_blank">Saúde na Hora</a></strong><br/>
-      Página de serviços em saúde/telemedicina.
-    </td>
-  </tr>
 </table>
 
