@@ -1,6 +1,6 @@
 ## Hi, I'm Arthur Teixeira 👋
 
-- 💻 Backend Developer  
+- 💻 Full-stack Developer  
 - 👨‍🎓 Bachelor's Degree Candidate in Computer Engineering at SENAI CIMATEC
 - ✉️ Email: arthurteixeirasantos@gmail.com
 
