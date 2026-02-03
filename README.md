@@ -16,7 +16,7 @@
 
 ## Studying:
 
-[![My Skills](https://skillicons.dev/icons?i=py,aws,ai,mongodb,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,aws,cloudflare,ai,mongodb,jest)](https://skillicons.dev)
 
 ## Professional Experience:
 
