@@ -26,7 +26,7 @@
 [<img align="left" height="94px" width="95px" alt="Warlocks logo" style="padding-right: 10px" src="https://media.licdn.com/dms/image/v2/C4D0BAQHPdPyvo6Qb6A/company-logo_200_200/company-logo_200_200/0/1668183873473/xmonkeybr_logo?e=2147483647&v=beta&t=k9uhWPBZzwmbS05wRWglHiDb-mNVr2TmB6s96jPrc94"/>](https://media.licdn.com/dms/image/v2/C4D0BAQHPdPyvo6Qb6A/company-logo_200_200/company-logo_200_200/0/1668183873473/xmonkeybr_logo?e=2147483647&v=beta&t=k9uhWPBZzwmbS05wRWglHiDb-mNVr2TmB6s96jPrc94)  
 **FullStack Developer**  
 **Xmonkey**  
-Fev 2025 – Present
+Jan 2025 – Dec 2025
 Languages & Technologies: `Fastify`, `Prisma ORM`, `PostgreSQL`, `Docker`, `React`, `Next.js`, `Tailwind CSS`, `SEO`
 
 [<img align="left" height="94px" width="95px" alt="TITAN logo" style="padding-right: 10px" src="https://www.cimatecjr.com.br/assets/img/og.jpg"/>](https://www.cimatecjr.com.br/assets/img/og.jpg)  
