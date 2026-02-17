@@ -12,7 +12,7 @@
 
 ## Frameworks and tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,nextjs,react,materialui,tailwind,docker,nodejs,nestjs,express,postgres,mongodb,redis,prisma,vitest,jest,vscode,git,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,nextjs,react,materialui,tailwind,docker,nodejs,nestjs,express,postgres,mongodb,sqlite,redis,prisma,vitest,jest,vscode,git,npm)](https://skillicons.dev)
 
 ## Studying:
 
