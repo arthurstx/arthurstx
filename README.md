@@ -33,7 +33,7 @@ Languages & Technologies: `Fastify`, `Prisma ORM`, `PostgreSQL`, `Docker`, `Reac
 **Front-end Developer**  
 [**CIMATEC JR - Computer Engineering Junior Company at SENAI CIMATEC**](https://www.cimatecjr.com.br/)  
 September 2024 – Present  
-Languages & Technologies:  `React`, `Next.js`, `TypeScript`,
+Languages & Technologies:  `React`, `Next.js`, `cloudflare workers`, `nest`, `TypeScript`,
 <br/>
 <br/>
 <br/>
