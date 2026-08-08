@@ -16,7 +16,7 @@
 
 ## Studying:
 
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,aws,terraform,cloudflare,workers,ai,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,aws,terraform,kubernetes,cloudflare,workers,ai,)](https://skillicons.dev)
 
 ## Professional Experience:
 
