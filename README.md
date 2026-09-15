@@ -29,7 +29,7 @@
 Jan 2025 – Dec 2025
 Languages & Technologies: `Fastify`, `Prisma ORM`, `PostgreSQL`, `Docker`, `React`, `Next.js`, `Tailwind CSS`, `SEO`
 
-[<img align="left" height="94px" width="95px" alt="TITAN logo" style="padding-right: 10px" src="https://www.cimatecjr.com.br/assets/img/og.jpg"/>](https://www.cimatecjr.com.br/assets/img/og.jpg)  
+[<img align="left" height="94px" width="95px" alt="CIMATECJR logo" style="padding-right: 10px" src="https://www.cimatecjr.com.br/assets/img/og.jpg"/>](https://www.cimatecjr.com.br/assets/img/og.jpg)  
 **Front-end Developer**  
 [**CIMATEC JR - Computer Engineering Junior Company at SENAI CIMATEC**](https://www.cimatecjr.com.br/)  
 September 2024 – Present  
